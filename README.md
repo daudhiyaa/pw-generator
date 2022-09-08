@@ -2,4 +2,10 @@
 - clone the repo ```git clone https://github.com/daudhiyaa/pw-generator.git```
 - run main.py `python3 main.py`
 
-<blockquote> note : if you want add some numbers or symbols in your password, just add it in 2nd line after the upppercases </blockquote>
+<blockquote>
+
+## Syntax explanation
+- `for i in range(105)` : looping to generate 105 unique passwords
+- `'abcdefghijklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ'` is the characters you want to be in your password
+- `15` is the length of your password
+</blockquote>
