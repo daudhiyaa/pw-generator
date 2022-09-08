@@ -4,7 +4,7 @@
 
 <blockquote>
 
-## Syntax explanation
+### Syntax explanation
 - `for i in range(105)` : looping to generate 105 unique passwords
 - `'abcdefghijklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ'` is the characters you want to be in your password
 - `15` is the length of your password
