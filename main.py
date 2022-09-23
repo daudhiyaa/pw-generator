@@ -1,2 +1,2 @@
 from random import sample 
-for i in range (105):print("".join(sample('abcdefghijklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ', 15)))
+for i in range (10):print(''.join(sample('abcdefghijklmnopqrstuvwxyzABCDEFGHJKLMNOPQRSTUVWXYZ1234567890', 15)))
