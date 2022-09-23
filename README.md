@@ -1,6 +1,6 @@
 ## How to run
 - clone the repo `git clone https://github.com/daudhiyaa/pw-generator.git`
-- run main.py `python3 main.py`
+- run main.py `python3 fileName.py`
 
 <blockquote>
 
